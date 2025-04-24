@@ -42,7 +42,7 @@ We have completed a paper that models stage lighting in popular music performanc
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors</div><img src='images/STRMOAF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors</div><img src='images/STRMOAF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Music-Driven Dance Generation Method Based on a Spatial-Temporal Refinement Model to Optimize Abnormal Frames](https://www.mdpi.com/1424-8220/24/2/588)
@@ -73,7 +73,7 @@ One-shot Neural Architecture Search (NAS) for skeleton-based action recognition 
 <!-- 无线环境光照传感系统 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NCPA</div>
 <div class="scroll-container">
-        <div class="scroll-item"><img src="images/NCPA/RealTest.png"></div>
+        <div class="scroll-item"><img src="images/NCPA/RealTest.jpg"></div>
         <div class="scroll-item"><img src="images/NCPA/Box1.jpeg"></div>
         <div class="scroll-item"><img src="images/NCPA/Box2.jpeg"></div>
         <div class="scroll-item"><img src="images/NCPA/Box3.jpeg"></div>
@@ -94,7 +94,7 @@ To address the issue of illuminance distribution in theater seating areas, we de
 <div class="scroll-container">
     <div class="scroll-item"><img src="images/BW2022/System.png"></div>
     <div class="scroll-item"><img src="images/BW2022/FrameWork.png"></div>
-    <div class="scroll-item"><img src="images/BW2022/Demo.png"></div>
+    <div class="scroll-item"><img src="images/BW2022/Demo.jpg"></div>
 </div>
 
 
