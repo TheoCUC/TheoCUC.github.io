@@ -25,7 +25,7 @@ I am a Ph.D. candidate at the School of Information and Communication Engineerin
 # 🔥 News
 
 <!-- - 2025.03  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submission in progress</div><img src='images/LightingGenOverview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM Accept!</div><img src='images/LightingGenOverview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 LightingGen: A DMX based Generation Method for Entertainment Stage Lighting
