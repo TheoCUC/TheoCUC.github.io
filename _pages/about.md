@@ -25,14 +25,14 @@ I am a Ph.D. candidate at the School of Information and Communication Engineerin
 # 🔥 News
 
 <!-- - 2025.03  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM Accept!</div><img src='images/LightingGenOverview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM Accepted</div><img src='images/LightingGenOverview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-LightingGen: A DMX based Generation Method for Entertainment Stage Lighting
+[LightingGen: A DMX based Generation Method for Entertainment Stage Lighting](https://ieeexplore.ieee.org/document/11397196)
 
 **Wang Tianhao**, [Jiang Yujian](https://ices.cuc.edu.cn/2019/0919/c5332a135711/pagem.htm), [Jiang Wei](https://ices.cuc.edu.cn/2019/0919/c5332a135716/pagem.htm), Zhou Xiangzhong and Guan Xuzeng
 
-We have completed a paper that models stage lighting in popular music performances through a data-driven approach by simulating the programming methods of professional designers. This work presents the first data-driven generative modeling method for stage lighting and plans to open-source the core code and related data in the future. The paper is currently under review.
+This paper models stage lighting in popular music performances through a data-driven approach by simulating the programming methods of professional designers. This work presents the first data-driven generative modeling method for stage lighting and plans to open-source the core code and related data in the future. The paper has been accepted by IEEE Transactions on Multimedia (TMM).
 
 </div>
 </div>
@@ -41,6 +41,19 @@ We have completed a paper that models stage lighting in popular music performanc
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/LightingGenOverview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LightingGen: A DMX based Generation Method for Entertainment Stage Lighting](https://ieeexplore.ieee.org/document/11397196)
+
+**Wang Tianhao**, [Jiang Yujian](https://ices.cuc.edu.cn/2019/0919/c5332a135711/pagem.htm), [Jiang Wei](https://ices.cuc.edu.cn/2019/0919/c5332a135716/pagem.htm), Zhou Xiangzhong and Guan Xuzeng
+
+*IEEE Transactions on Multimedia (TMM), Accepted.*  
+Volume/issue/page details will be updated after final publication.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors</div><img src='images/STRMOAF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
